@@ -1,4 +1,4 @@
-package br.com.pelisoli.helloflavors;
+package br.com.pelisoli.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

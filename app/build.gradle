@@ -11,6 +11,21 @@ android {
         versionCode 1
         versionName "1.0"
     }
+
+    productFlavors {
+        flavor1 {
+            applicationId = "br.com.pelisoli.flavor1"
+        }
+
+        flavor2 {
+            applicationId = "br.com.pelisoli.flavor2"
+        }
+        flavor3 {
+            applicationId "br.com.pelisoli.flavor3"
+        }
+    }
+
+
     buildTypes {
         release {
             minifyEnabled false

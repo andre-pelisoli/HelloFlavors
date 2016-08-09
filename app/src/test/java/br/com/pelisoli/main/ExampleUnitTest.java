@@ -1,4 +1,4 @@
-package br.com.pelisoli.helloflavors;
+package br.com.pelisoli.main;
 
 import org.junit.Test;
 
